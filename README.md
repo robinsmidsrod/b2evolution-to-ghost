@@ -15,7 +15,7 @@ either through your package manager (if you're using system perl), or using
 the command `cpanm --installdeps .` if your using a custom perl instance.
 
 If you use a custom perl and install directly from CPAN, make sure the
-`mysql_config` program is installed (needed på DBD::mysql). It can usually
+`mysql_config` program is installed (needed by DBD::mysql). It can usually
 be installed with your system package manager. In Debian-based distros, it
 is named `libmysqlclient-dev`.
 
