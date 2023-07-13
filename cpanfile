@@ -5,3 +5,5 @@ requires 'JSON';
 requires 'DateTime::Format::ISO8601';
 requires 'DateTime';
 requires 'HTML::FromText';
+requires 'BSON::Types';
+requires 'Data::UUID';
